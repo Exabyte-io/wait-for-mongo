@@ -3,7 +3,8 @@
   "version": "0.2.0",
   "description": "Simple utility which waits until mongodb to come online",
   "dependencies": {
-    "mongodb": "1.4.x"
+    "bson": "^1.0.4",
+    "mongodb": "^2.2.33"
   },
   "main": "./lib/waitForMongo.js",
   "bin": {
@@ -12,6 +13,6 @@
   "author": "Arunoda Susiripala <arunoda.susiripala@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/arunoda/wait-for-mongo.git"
+    "url": "git://github.com/juliomax/wait-for-mongo.git"
   }
 }
