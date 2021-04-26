@@ -1,10 +1,10 @@
 {
   "name": "wait-for-mongo",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Simple utility which waits until mongodb to come online",
   "dependencies": {
     "bson": "^1.0.4",
-    "mongodb": "^2.2.33"
+    "mongodb": "^3.6.2"
   },
   "main": "./lib/waitForMongo.js",
   "bin": {
