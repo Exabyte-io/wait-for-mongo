@@ -13,6 +13,6 @@
   "author": "Arunoda Susiripala <arunoda.susiripala@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/juliomax/wait-for-mongo.git"
+    "url": "git://github.com/Exabyte-io/wait-for-mongo.git"
   }
 }
